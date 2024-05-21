@@ -5,6 +5,7 @@
   "scripts": {
     
     "dev": "nodemon backend/server.js"
+    "built" : "npm i",
    
   },
   "author": "",
