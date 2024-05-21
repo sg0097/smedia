@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "node backend/server.js",
-    "dev": "nodemon backend/server.js",
-    "built": "npm i"
+    
+    "dev": "nodemon backend/server.js"
+   
   },
   "author": "",
   "license": "ISC",
